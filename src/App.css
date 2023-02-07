@@ -13,8 +13,8 @@
 }
 
 .box {
-  width: 25rem;
-  height: 25rem;
+  width: 15rem;
+  height: 15rem;
   background-color: aqua;
   display: flex;
   flex-direction: column;
